@@ -29,6 +29,7 @@ $ docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgre
 Client postgres Postbird
 https://www.electronjs.org/apps/postbird
 
+- Sequelize & MVC - ORM para NodeJS
 
 
 ### Créditos
