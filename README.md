@@ -3,6 +3,12 @@
 ## Ambiente e conceitos
 
 - Configurando estrutura
+- Nodemon & Sucrase
+
+```
+$ yarn add sucrase nodemon -D
+```
+
 
 
 ### Créditos
