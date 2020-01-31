@@ -38,7 +38,13 @@ $ yarn eslint --init
 $ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 $ yarn eslint --fix src --ext .js
 ```
+- Configurando Sequelize
 
+```
+$ yarn add sequelize
+$ yarn add sequelize-cli -D
+$ yarn add pg pg-hstore
+```
 
 ### Créditos
 [Rocketseta](http://www.rocketseat.com.br)
