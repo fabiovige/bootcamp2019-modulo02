@@ -59,7 +59,11 @@ $ yarn sequelize db:migrate:undo
 - Model de usuário
 - Criando loader de models
 - Cadastro de usuários
+- Gerando hash de senha
 
+```
+$ yarn add bcryptjs
+```
 
 
 ### Créditos
