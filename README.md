@@ -81,4 +81,4 @@ $ yarn add yup
 
 
 ### Créditos
-[Rocketseta](http://www.rocketseat.com.br)
+[Rocketseat](http://www.rocketseat.com.br)
