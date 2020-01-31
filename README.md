@@ -72,7 +72,7 @@ $ yarn add bcryptjs
 $ yarn add jsonwebtoken
 ```
 - Middleware de autenticação
-
+- Update do usuário
 
 ### Créditos
 [Rocketseta](http://www.rocketseat.com.br)
