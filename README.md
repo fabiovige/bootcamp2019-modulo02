@@ -57,7 +57,7 @@ $ yarn sequelize db:migrate:undo
 ```
 
 - Model de usuário
-
+- Criando loader de models
 
 
 
