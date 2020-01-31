@@ -65,6 +65,13 @@ $ yarn sequelize db:migrate:undo
 $ yarn add bcryptjs
 ```
 
+- Conceitos de JWT
+- Autenticação JWT
+
+```
+$ yarn add jsonwebtoken
+```
+
 
 ### Créditos
 [Rocketseta](http://www.rocketseat.com.br)
