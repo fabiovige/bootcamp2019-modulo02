@@ -46,5 +46,16 @@ $ yarn add sequelize-cli -D
 $ yarn add pg pg-hstore
 ```
 
+## Cadastro e autenticação de usuários
+
+- Migratios de usuários
+```
+$ yarn sequelize migration:create --name=create-users
+$ yarn sequelize db:migrate
+$ yarn sequelize db:migrate:undo
+```
+
+
+
 ### Créditos
 [Rocketseta](http://www.rocketseat.com.br)
