@@ -1,4 +1,4 @@
-# Modulo02 - GoBarber
+# Modulo02 - Iniciando back-end do GoBarber
 
 ## Ambiente e conceitos
 
