@@ -73,6 +73,12 @@ $ yarn add jsonwebtoken
 ```
 - Middleware de autenticação
 - Update do usuário
+- Validando dados do usuário
+
+```
+$ yarn add yup
+```
+
 
 ### Créditos
 [Rocketseta](http://www.rocketseat.com.br)
