@@ -30,6 +30,14 @@ Client postgres Postbird
 https://www.electronjs.org/apps/postbird
 
 - Sequelize & MVC - ORM para NodeJS
+- ESLint, Prettier & EditorConfig
+
+```
+$ yarn add eslint -D
+$ yarn eslint --init
+$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+$ yarn eslint --fix src --ext .js
+```
 
 
 ### Créditos
