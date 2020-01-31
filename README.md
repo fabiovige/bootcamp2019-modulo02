@@ -71,6 +71,7 @@ $ yarn add bcryptjs
 ```
 $ yarn add jsonwebtoken
 ```
+- Middleware de autenticação
 
 
 ### Créditos
